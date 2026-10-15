@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hi, I'm **Jishan Mullani**, an AI/ML Developer and Computer Science student specializing in Artificial Intelligence and Machine Learning. <br>
+👋 Hi, I'm **MD.jishan Mullani**, an AI/ML Developer and Computer Science student specializing in Artificial Intelligence and Machine Learning. <br>
 🌱 🎓 Currently pursuing CSE (AI & ML) at KIT College of Engineering, Kolhapur. <br>
 🤖 Passionate about building intelligent applications using Machine Learning, Generative AI, Retrieval-Augmented Generation (RAG), and Computer Vision. <br>
 🐍 I enjoy developing Python-based AI solutions, experimenting with modern AI technologies, <br>
