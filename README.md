@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at KIT College of Engineering, Kolhapur  <br>🌱 I’m pursuing a degree in Artificial Intelligence & Machine Learning (AIML)  <br>💡 I’m passionate about Machine Learning, Deep Learning, and Data Analytics  <br>📊 I enjoy working with data, building intelligent models, and solving real-world problems  
+🔭 I’m currently studying at KIT College of Engineering, Kolhapur  <br>🌱 I’m pursuing a degree in Artificial Intelligence & Machine Learning (AIML)  <br>💡 I’m passionate about Machine Learning, Deep Learning, Data Scientist  Data Analytics  <br>📊 I enjoy working with data, building intelligent models, and solving real-world problems  
 
 
 ## 🌐 Socials:
