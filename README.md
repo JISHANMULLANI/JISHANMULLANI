@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at KIT College of Engineering, Kolhapur  <br>🌱 I’m pursuing a degree in Artificial Intelligence & Machine Learning (AIML)  <br>💡 I’m passionate about Machine Learning, Deep Learning, Data Scientist anad Data Analytics  <br>📊 I enjoy working with data, building intelligent models, and solving real-world problems  
+👋 Hi, I'm Jishan Mullani, an AI/ML Developer and Computer Science student specializing in Artificial Intelligence and Machine Learning.  <br>🌱 🎓 Currently pursuing CSE (AI & ML) at KIT College of Engineering, Kolhapur.  <br>💡🤖 Passionate about building intelligent applications using Machine Learning, Generative AI, Retrieval-Augmented Generation (RAG), and Computer Vision.  <br>📊 I enjoy working with data, building intelligent models, and solving real-world problems  
 
 
 ## 🌐 Socials:
